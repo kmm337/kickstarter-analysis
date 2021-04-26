@@ -11,20 +11,20 @@ Louise's fundraising campaign came close to it's goal. The purpose of this analy
 ### Analysis of Outcomes Based on Launch Date
 The chart Theatre_Outcomes_vs_Launch.png shows the number of successes, failures and canceled campaigns, globally in the Theatre category. 
 
-![Outcomes_Based_on_Launch_Date](resources/Outcomes_vs_Goals.png) shows the number of successful, failed and canceled campaigns by the month in which the campaign was launched. Campaigns launched in May through July showed a greater rate of success than other months of the year. The month of December was a particularly poor month for campaign success. 
+ ![Outcomes_Based_on_Launch_Date](resources/Theatre_Outcomes_vs_Launch.png) shows the number of successful, failed and canceled campaigns by the month in which the campaign was launched. Campaigns launched in May through July showed a greater rate of success than other months of the year. The month of December was a particularly poor month for campaign success. 
 
-It should be noted the dataset included no data on failures and cancellations for the years 2009 - 2013. The 100% success rate in these years can bias the results. Filtering out these years, however did not alter the general trends. **Insert new line graph with years 2014-2017**
+It should be noted the dataset included no data on failures and cancellations for the years 2009 - 2013. The 100% success rate in these years can bias the results. Filtering out these years, however did not alter the general trends. 
 
-Line graphs make judging the total number of campaigns and the rate of success by month difficult. A stacked bar chart **insert chart** shows the months of May through July had the greatest number of campaigns. The number of campaigns launched was lowest in December. 
+Line graphs make judging the total number of campaigns and the rate of success by month difficult to discern. A stacked bar chart ![Theater Outcomes by Launch Month, 2014-2017](resources/Theater_Outcomes_vs_Launch 2014-2017 stacked bar.png) clearly shows the months of May through July had the greatest number of campaigns. The number of campaigns launched was lowest in December. 
 
-A 100% stacked bar chart allows us to see the percentage of successes, failures and cancels by month.  **insert 100% stacked bar chart** This chart shows the success rate may not vary as dramatically across months as the line graphs may suggest.  
+A 100% stacked bar chart allows us to see the percentage of successes, failures and cancels by month. ![Theater Outcomes by Launch Month, 2014-2017](resources/Theater_Outcomes_vs_Launch 2014-2017 100% stacked bar.png) This chart shows the success rate may not vary as dramatically across months as the line graphs may suggest.  
 
 Conclusions: 
 1) More campaigns are launched in the months May thru July; competition for donors will be highest
 2) Campaigns launched in May and June had the highest success rates and campaigns launched in December had the lowest success rate. Further assessment is needed to assess whether campaigns launched in the summer months tend to be more successful than those launched in other months.
 
 ### Analysis of Outcomes Based on Goals
-The Chart Outcomes Based on Goals **insert chart** shows the percentage of success and failures by the campaign goal in what appears to be local currencies. Any conclusions based on this graph are meaningless due to the inconsistent currency units.
+The Chart Outcomes Based on Goals ![Outcomes_Based_on_Launch_Date](resources/Outcomes_vs_Goals.png) shows the percentage of success and failures by the campaign goal in what appears to be local currencies. Any conclusions based on this graph are meaningless due to the inconsistent currency units.
 
 Filtering the dataset to US Kickstarter campaigns for the subcategory Plays, for the years 2014-2017 would provide a relevant dataset for Louise's question. This filters out years with biased data as well as non-US currencies. Alternatively, currencies could be converted to a common base.
 
