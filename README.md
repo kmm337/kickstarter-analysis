@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarter Campaigns for Theatre Projects
 
 ## Overview of Project
 This project analyzed Kickstarter fundraising campaigns occurring between the years 2009 and 2017 in the theatre category to understand success and failure in meeting campaign goals relative to launch dates and funding goals.
